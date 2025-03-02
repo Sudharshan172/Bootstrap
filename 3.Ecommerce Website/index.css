@@ -1,0 +1,141 @@
+/*Navbar*/
+.logo-sizing{
+    height: 50px;
+    width: 120px;
+}
+
+/*Services Section*/
+.services-logo-sizing{
+    width: 120px;
+}
+
+/*Products Section*/
+.view-details-button{
+    height: 40px;
+    width: 120px;
+    background-color: white;
+    color: #ff9f00;
+    border: 0px;
+    border-radius: 15px;
+}
+.head-phones{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png");
+    background-size: cover;
+    height: 250px;
+    border-radius: 10px;
+    color: white;
+    padding: 20px;
+}
+.laptops{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png");
+    background-size: cover;
+    height: 250px;
+    border-radius: 10px;
+    color: white;
+    padding: 20px;
+}
+.see-offers{
+    color: #ff9f00;
+}
+
+/*Offers Section*/
+.offers-bg{
+    background-image: linear-gradient(#f49541, #dd5d97);
+    color: white;
+}
+.offers-heading{
+    color: #ad2167;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+/*Trending Blogs*/
+.trending-blogs-heading{
+    margin: 0px;
+    margin-bottom: 20px;
+    padding: 10px;
+    color: #183b56;
+    font-weight: 550;
+    font-family: "Roboto";
+}
+
+/*Explore Deals Section*/
+.electronics-image-sizing{
+    border-radius: 15px;
+}
+
+.electronics-image-sizing, .tv-image-sizing {
+    width: 100%;
+    height: 120px; /* Adjust height as needed */
+    object-fit: cover; /* Ensures the image covers the given area without distortion */
+    border-radius: 10px; /* Smooth edges */
+}
+
+/*Contact Us Section*/
+.contactus-section{
+    background-color: whitesmoke;
+    
+}
+.contactus-button{
+    height: 40px;
+    width: 120px;
+    border: 1px solid #ff9f00;
+    border-radius: 10px;
+    background-color: white;
+    color: #ff9f00;
+    
+}
+
+/*Footer Section*/
+.footer-section {
+    background-color: #0d2436;
+    background-size: cover;
+}
+
+.footer-brand-logo {
+    height: 50px;
+    width: 130px;
+}
+
+.media-logo {
+    color: #5a7184;
+    background-color: #152c3e;
+    margin: 15px;
+    border-radius: 40px;
+    width: 45px;
+    height: 45px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 8px;
+    padding-right: 9px;
+}
+
+.address {
+    color: #959ead;
+}
+
+.footer-section-sub-heading {
+    color: #5a7184;
+}
+
+.list-items {
+    list-style: none;
+}
+
+.card-heading {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.icon {
+    color: #959ead;
+
+}
+
+.hr-line {
+    background-color: #5a7184;
+}
+.rights-reserved-sec{
+    color:#5a7184;
+    text-align: center;
+}
